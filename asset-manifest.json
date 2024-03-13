@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-video-recorder/static/css/main.377c1059.css",
+    "main.js": "/live-video-recorder/static/js/main.6d93056a.js",
+    "index.html": "/live-video-recorder/index.html",
+    "main.377c1059.css.map": "/live-video-recorder/static/css/main.377c1059.css.map",
+    "main.6d93056a.js.map": "/live-video-recorder/static/js/main.6d93056a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377c1059.css",
+    "static/js/main.6d93056a.js"
+  ]
+}
